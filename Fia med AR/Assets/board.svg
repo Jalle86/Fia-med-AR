@@ -14,11 +14,11 @@
    viewBox="0 0 500 499.99999"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="board.svg"
-   inkscape:export-filename="C:\Users\Jallejobb\Desktop\Fia-med-AR\Fia med AR\Assets\board.png"
-   inkscape:export-xdpi="107.86313"
-   inkscape:export-ydpi="107.86313">
+   inkscape:export-filename="/home/jalle/Projects/Fia-med-AR/Fia med AR/Assets/Board/board.png"
+   inkscape:export-xdpi="104.0384"
+   inkscape:export-ydpi="104.0384">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,18 +29,19 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="356.53854"
-     inkscape:cy="707.90682"
+     inkscape:cx="410.69445"
+     inkscape:cy="212.24568"
      inkscape:document-units="mm"
      inkscape:current-layer="g6860"
-     showgrid="false"
+     showgrid="true"
      units="cm"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="false" />
+     inkscape:pagecheckerboard="false"
+     inkscape:snap-object-midpoints="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -64,15 +65,11 @@
       <g
          id="g6860"
          transform="translate(0.35079704,0.83316496)">
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6324"
-           cy="-72.32193"
-           cx="-3.2430749"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.00000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 28.257386,40.821463 440.645474,0"
+           id="path4322"
+           inkscape:connector-curvature="0" />
         <circle
            r="20.312481"
            transform="rotate(90)"
@@ -80,24 +77,6 @@
            id="use6326"
            cy="-72.32193"
            cx="40.821472"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6328"
-           cy="-72.32193"
-           cx="84.886017"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6346"
-           cy="-116.38647"
-           cx="-3.2430749"
            inkscape:tile-x0="1.530437"
            inkscape:tile-y0="1.048079" />
         <circle
@@ -112,24 +91,6 @@
         <circle
            r="20.312481"
            transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6350"
-           cy="-116.38647"
-           cx="84.886017"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6368"
-           cy="-160.45102"
-           cx="-3.2430749"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
            style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="use6370"
            cy="-160.45102"
@@ -139,120 +100,17 @@
         <circle
            r="20.312481"
            transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6372"
-           cy="-160.45102"
-           cx="84.886017"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6382"
-           cy="-204.51556"
-           cx="-179.50127"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6384"
-           cy="-204.51556"
-           cx="-135.43672"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6386"
-           cy="-204.51556"
-           cx="-91.372169"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6388"
-           cy="-204.51556"
-           cx="-47.307621"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6390"
-           cy="-204.51556"
-           cx="-3.2430749"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="use6392"
            cy="-204.51556"
            cx="40.821472"
            inkscape:tile-x0="1.530437"
            inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6394"
-           cy="-204.51556"
-           cx="84.886017"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6396"
-           cy="-204.51556"
-           cx="128.95056"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6398"
-           cy="-204.51556"
-           cx="173.01511"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6400"
-           cy="-204.51556"
-           cx="217.07965"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6402"
-           cy="-204.51556"
-           cx="261.1442"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6404"
-           cy="-248.58011"
-           cx="-179.50127"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.00000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 248.58011,-179.50127 0,440.64547"
+           id="path4324"
+           inkscape:connector-curvature="0" />
         <circle
            r="20.312481"
            transform="rotate(90)"
@@ -337,6 +195,236 @@
         <circle
            r="20.312481"
            transform="rotate(90)"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6436"
+           cy="-292.64468"
+           cx="40.821472"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6458"
+           cy="-336.70923"
+           cx="40.821472"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6480"
+           cy="-380.77377"
+           cx="40.821472"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6502"
+           cy="-424.83832"
+           cx="40.821472"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="60.937443"
+           transform="rotate(90)"
+           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6446-2"
+           cy="-428.02789"
+           cx="220.26923"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="60.937443"
+           transform="rotate(90)"
+           style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6446-2-0"
+           cy="-69.132347"
+           cx="220.26923"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="60.937443"
+           transform="rotate(90)"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6446-2-9"
+           cy="-69.132347"
+           cx="-138.62631"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="60.937443"
+           transform="rotate(90)"
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6446-2-5"
+           cy="-428.02789"
+           cx="-138.62631"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.00000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 204.51556,-3.243083 0,-176.258187 88.12911,0 0,176.258187 176.25819,0 0,88.12909 -176.25819,0 0,176.258193 -88.12911,0 0,-176.258193 -176.258174,0 0,-88.1290928 z"
+           id="path4320"
+           inkscape:connector-curvature="0" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6324"
+           cy="-72.32193"
+           cx="-3.2430749"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6328"
+           cy="-72.32193"
+           cx="84.886017"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6346"
+           cy="-116.38647"
+           cx="-3.2430749"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6350"
+           cy="-116.38647"
+           cx="84.886017"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6368"
+           cy="-160.45102"
+           cx="-3.2430749"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6372"
+           cy="-160.45102"
+           cx="84.886017"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6382"
+           cy="-204.51556"
+           cx="-179.50127"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6384"
+           cy="-204.51556"
+           cx="-135.43672"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6386"
+           cy="-204.51556"
+           cx="-91.372169"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6388"
+           cy="-204.51556"
+           cx="-47.307621"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6390"
+           cy="-204.51556"
+           cx="-3.2430749"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6394"
+           cy="-204.51556"
+           cx="84.886017"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6396"
+           cy="-204.51556"
+           cx="128.95056"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6398"
+           cy="-204.51556"
+           cx="173.01511"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6400"
+           cy="-204.51556"
+           cx="217.07965"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6402"
+           cy="-204.51556"
+           cx="261.1442"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="use6404"
+           cy="-248.58011"
+           cx="-179.50127"
+           inkscape:tile-x0="1.530437"
+           inkscape:tile-y0="1.048079" />
+        <circle
+           r="20.312481"
+           transform="rotate(90)"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="use6424"
            cy="-248.58011"
@@ -386,15 +474,6 @@
            id="use6434"
            cy="-292.64468"
            cx="-3.2430749"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6436"
-           cy="-292.64468"
-           cx="40.821472"
            inkscape:tile-x0="1.530437"
            inkscape:tile-y0="1.048079" />
         <circle
@@ -454,15 +533,6 @@
         <circle
            r="20.312481"
            transform="rotate(90)"
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6458"
-           cy="-336.70923"
-           cx="40.821472"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="use6460"
            cy="-336.70923"
@@ -481,15 +551,6 @@
         <circle
            r="20.312481"
            transform="rotate(90)"
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6480"
-           cy="-380.77377"
-           cx="40.821472"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="use6482"
            cy="-380.77377"
@@ -503,15 +564,6 @@
            id="use6500"
            cy="-424.83832"
            cx="-3.2430749"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="20.312481"
-           transform="rotate(90)"
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6502"
-           cy="-424.83832"
-           cx="40.821472"
            inkscape:tile-x0="1.530437"
            inkscape:tile-y0="1.048079" />
         <circle
@@ -575,42 +627,6 @@
            id="use6546"
            cy="-28.257387"
            cx="84.886024"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="60.937443"
-           transform="rotate(90)"
-           style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6446-2"
-           cy="-428.02789"
-           cx="220.26923"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="60.937443"
-           transform="rotate(90)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6446-2-0"
-           cy="-69.132347"
-           cx="220.26923"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="60.937443"
-           transform="rotate(90)"
-           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6446-2-9"
-           cy="-69.132347"
-           cx="-138.62631"
-           inkscape:tile-x0="1.530437"
-           inkscape:tile-y0="1.048079" />
-        <circle
-           r="60.937443"
-           transform="rotate(90)"
-           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="use6446-2-5"
-           cy="-428.02789"
-           cx="-138.62631"
            inkscape:tile-x0="1.530437"
            inkscape:tile-y0="1.048079" />
       </g>

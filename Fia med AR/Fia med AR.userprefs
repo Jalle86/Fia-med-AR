@@ -1,8 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Torque.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SpawnCircles.cs">
     <Files>
-      <File FileName="Assets/Torque.cs" Line="15" Column="29" />
+      <File FileName="Assets/Torque.cs" Line="23" Column="19" />
+      <File FileName="Assets/SpawnPieces.cs" Line="14" Column="39" />
+      <File FileName="Assets/Selected.cs" Line="9" Column="17" />
+      <File FileName="Assets/SpawnCircles.cs" Line="36" Column="36" />
+      <File FileName="Assets/Circle.cs" Line="17" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
